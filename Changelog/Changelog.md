@@ -1,4 +1,4 @@
-Pyrite VR Changelog
+# Pyrite VR Changelog
 
 ## 19.02.2026
 - Grabbed the Raspberry Pi 5 Compute Module and Waveshare CM PCB
