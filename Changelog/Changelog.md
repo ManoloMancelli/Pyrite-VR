@@ -12,3 +12,6 @@
 - Grabbed the MIPI Driver Board
 - Removed the HDMI and USB connectors
 ![1](/Changelog/img/19.02.2026/3.jpeg)
+
+- Replaced the HDMI port with FFC Connector
+![1](/Changelog/img/19.02.2026/4.jpeg)
