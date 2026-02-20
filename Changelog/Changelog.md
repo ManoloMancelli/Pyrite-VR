@@ -34,3 +34,6 @@
 
 - Added CM5 Carrier Board mount on top of the MIPI Driver board mount
 ![1](/Changelog/img/20.02.2026/5.jpeg)
+
+- Removed the Mipi Connector cover
+- Added Mipi Driver Board and Connector Board mounting points on the main headset body
