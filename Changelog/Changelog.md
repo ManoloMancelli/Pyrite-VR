@@ -30,3 +30,7 @@
 ![1](/Changelog/img/20.02.2026/3.jpeg)
 
 - Designed basic MIPI Connector board cover with MIPI Driver board mount
+![1](/Changelog/img/20.02.2026/4.jpeg)
+
+- Added CM5 Carrier Board mount on top of the MIPI Driver board mount
+![1](/Changelog/img/20.02.2026/5.jpeg)
