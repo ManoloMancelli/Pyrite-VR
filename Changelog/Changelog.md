@@ -34,6 +34,3 @@
 
 - Added CM5 Carrier Board mount on top of the MIPI Driver board mount
 ![1](/Changelog/img/20.02.2026/5.jpeg)
-
-- Made the CM5 Carrier Board mount walls taller
-- Adjusted the connector tolerances
