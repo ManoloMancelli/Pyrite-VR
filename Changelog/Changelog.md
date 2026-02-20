@@ -15,3 +15,9 @@
 
 - Replaced the HDMI port with FFC Connector
 ![1](/Changelog/img/19.02.2026/4.jpeg)
+
+### No HDMI signal over FFC
+
+## 20.02.2026
+- Soldered back all of the connectors
+![1](/Changelog/img/20.02.2026/1.jpeg)
