@@ -27,6 +27,6 @@
 ![1](/Changelog/img/20.02.2026/2.png)
 
 - Added mounting points for the Mipi Connector board cover
-![1](/Changelog/img/20.02.2026/3.png)
+![1](/Changelog/img/20.02.2026/3.jpeg)
 
 - Designed basic MIPI Connector board cover with MIPI Driver board mount
