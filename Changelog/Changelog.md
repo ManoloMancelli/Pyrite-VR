@@ -21,3 +21,5 @@
 ## 20.02.2026
 - Soldered back all of the connectors
 ![1](/Changelog/img/20.02.2026/1.jpeg)
+
+- Grabbed the Persephone 3 Pro CAD files
