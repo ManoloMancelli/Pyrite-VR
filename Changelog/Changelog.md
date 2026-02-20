@@ -37,3 +37,4 @@
 
 - Removed the Mipi Connector cover
 - Added Mipi Driver Board and Connector Board mounting points on the main headset body
+- Added diagonal walls on the main headset body
