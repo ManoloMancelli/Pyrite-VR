@@ -23,3 +23,5 @@
 ![1](/Changelog/img/20.02.2026/1.jpeg)
 
 - Grabbed the Persephone 3 Pro CAD files
+- Put the 3D render of the Mipi Connector board into CAD files
+![1](/Changelog/img/20.02.2026/2.png)
