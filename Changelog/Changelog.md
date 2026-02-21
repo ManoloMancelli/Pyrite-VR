@@ -38,3 +38,6 @@
 - Removed the Mipi Connector cover
 - Added Mipi Driver Board and Connector Board mounting points on the main headset body
 - Added diagonal walls on the main headset body
+![1](/Changelog/img/20.02.2026/6.jpeg)
+
+## 21.02.2026
