@@ -41,3 +41,5 @@
 ![1](/Changelog/img/20.02.2026/6.jpeg)
 
 ## 21.02.2026
+
+- Improved the main body geometry
