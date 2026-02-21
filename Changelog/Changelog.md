@@ -43,3 +43,8 @@
 ## 21.02.2026
 
 - Improved the main body geometry
+- Added bottom wall
+![1](/Changelog/img/21.02.2026/1.jpeg)
+
+- Designed simple front cover
+![1](/Changelog/img/21.02.2026/2.jpeg)
