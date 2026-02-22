@@ -51,7 +51,7 @@
 
 ## 22.02.2026
 - Added connector holes
-- Slimmed down the whole build
+- Fixed the CM5 Carrier Board mounting points
 
 ## TODO 
-- Check if Anbernic board can be used
+- Check if Raspberry Pi Zero 2 can be used
