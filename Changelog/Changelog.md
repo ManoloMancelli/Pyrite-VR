@@ -50,3 +50,8 @@
 ![1](/Changelog/img/21.02.2026/2.jpeg)
 
 ## 22.02.2026
+- Added connector holes
+- Slimmed down the whole build
+
+## TODO 
+- Check if Anbernic board can be used
