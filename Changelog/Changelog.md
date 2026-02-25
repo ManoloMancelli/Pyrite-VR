@@ -53,6 +53,11 @@
 - Added connector holes
 - Fixed the CM5 Carrier Board mounting points
 - Split the main body in two and merged one part with front cover
+![1](/Changelog/img/22.02.2026/1.jpeg)
+![1](/Changelog/img/22.02.2026/2.jpeg)
+![1](/Changelog/img/22.02.2026/3.jpeg)
+
+## Released as 0.1 Version
 
 ## TODO 
 - Check if Raspberry Pi Zero 2 can be used
