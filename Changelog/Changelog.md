@@ -63,5 +63,8 @@
 
 # Version 0.2
 
+## 25.02.2026
+- Grabbed the Quest 2 Facial interface files
+
 ## TODO 
 - Check if Raspberry Pi Zero 2 can be used
