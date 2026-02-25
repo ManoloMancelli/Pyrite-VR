@@ -67,6 +67,6 @@
 
 ## 25.02.2026
 - Grabbed the Quest 2 Facial interface files
+![1](/Changelog/img/25.02.2026/1.png)
 
-## TODO 
-- Check if Raspberry Pi Zero 2 can be used
+
