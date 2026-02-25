@@ -61,5 +61,7 @@
 
 ## Released as 0.1 Version
 
+# Version 0.2
+
 ## TODO 
 - Check if Raspberry Pi Zero 2 can be used
