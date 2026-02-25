@@ -59,9 +59,9 @@
 ![1](/Changelog/img/22.02.2026/2.jpeg)
 ![1](/Changelog/img/22.02.2026/3.jpeg)
 
-#
 ## Released as 0.1 Version
-##
+#
+#
 
 # Version 0.2
 
