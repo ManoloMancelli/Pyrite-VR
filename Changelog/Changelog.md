@@ -70,3 +70,6 @@
 ![1](/Changelog/img/25.02.2026/1.png)
 
 - Made prototype Lense testing rig
+![1](/Changelog/img/25.02.2026/2.jpeg)
+
+- Pushed the lenses more towards the face
