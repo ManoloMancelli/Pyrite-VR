@@ -81,8 +81,6 @@
 - Added LCD Top cover
 ![1](/Changelog/img/26.02.2026/2.png)
 
-- Designed new Lense Loft
-![1](/Changelog/img/26.02.2026/3.png)
 
 ## TODO
 - Design button board for the MIPI Driver Board
