@@ -81,7 +81,6 @@
 - Added LCD Top cover
 ![1](/Changelog/img/26.02.2026/2.png)
 
-
 ## TODO
 - Design button board for the MIPI Driver Board
 - Design Control board for the Host Board
