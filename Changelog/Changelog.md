@@ -73,3 +73,7 @@
 ![1](/Changelog/img/25.02.2026/2.jpeg)
 
 - Pushed the lenses more towards the face
+
+## TODO
+- Design button board for the MIPI Driver Board
+- Design Control board for the Host Board
