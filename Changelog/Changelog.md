@@ -84,6 +84,8 @@
 - Combined the LCD covers with LCD frame
 ![1](/Changelog/img/26.02.2026/3.png)
 
+- Printed new test rig
+
 ## TODO
 - Design button board for the MIPI Driver Board
 - Design Control board for the Host Board
