@@ -85,6 +85,8 @@
 ![1](/Changelog/img/26.02.2026/3.png)
 
 - Printed new test rig
+![1](/Changelog/img/26.02.2026/4.jpeg)
+![1](/Changelog/img/26.02.2026/5.jpeg)
 
 ## TODO
 - Design button board for the MIPI Driver Board
