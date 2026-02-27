@@ -92,6 +92,9 @@
 - Rotated the Facial Interface
 ![1](/Changelog/img/27.02.2026/1.png)
 
+- Added test mounting points on the Facial Interface
+![1](/Changelog/img/27.02.2026/2.jpeg)
+
 ## TODO
 - Design button board for the MIPI Driver Board
 - Design Control board for the Host Board
