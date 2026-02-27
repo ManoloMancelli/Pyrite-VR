@@ -88,6 +88,10 @@
 ![1](/Changelog/img/26.02.2026/4.jpeg)
 ![1](/Changelog/img/26.02.2026/5.jpeg)
 
+## 27.02.2026
+- Rotated the Facial Interface
+![1](/Changelog/img/27.02.2026/1.png)
+
 ## TODO
 - Design button board for the MIPI Driver Board
 - Design Control board for the Host Board
