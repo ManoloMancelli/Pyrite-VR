@@ -99,6 +99,9 @@
 - Added Mipi Driver Board mountinh points
 ![1](/Changelog/img/27.02.2026/3.jpeg)
 
+- Designed basic brackets to combine Facial Interface with Display Frame
+![1](/Changelog/img/27.02.2026/4.jpeg)
+
 ## TODO
 - Design button board for the MIPI Driver Board
 - Design Control board for the Host Board
