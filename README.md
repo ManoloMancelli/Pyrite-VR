@@ -2,7 +2,7 @@
 # Pyrite VR
 DiY All-in-one VR Headset
 
-#### - [Changelog](/Changelog/Changelog.md)
+#### - [V0.1 and V0.2 Changelog](/Changelog/0.1%20and%200.2.md)
 
 #
 
