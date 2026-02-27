@@ -96,6 +96,7 @@
 ![1](/Changelog/img/27.02.2026/2.jpeg)
 
 - Added test mounting points on the Display Frame
+- Added Mipi Driver Board mountinh points
 ![1](/Changelog/img/27.02.2026/3.jpeg)
 
 ## TODO
