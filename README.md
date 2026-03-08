@@ -2,6 +2,8 @@
 # Pyrite VR
 DiY All-in-one VR Headset
 
+Uses angled LS029B3SX02 displays and OrangePi 5 Pro as main board
+
 ## Releases
 
 #### [Version 0.1](/Version%200.1/V0.1.md)
