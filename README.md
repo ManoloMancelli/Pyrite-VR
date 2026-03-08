@@ -5,6 +5,7 @@ DiY All-in-one VR Headset
 ## Releases
 
 ### [Version 0.1](/Version%200.1/V0.1.md)
+### [Version 0.4](/Version%200.1/V0.1.md)
 
 ## Changelogs
 
